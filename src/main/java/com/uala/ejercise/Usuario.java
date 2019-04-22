@@ -13,7 +13,6 @@ public class Usuario {
     private MetodoPago metodoPago;
     private Estado estado;
     private Contenido contenido;
-    private Sesion sesion;
     private Date fechaRegistro;
 
     public Subscripicion getSubscripicion() {
@@ -46,14 +45,6 @@ public class Usuario {
 
     public void setContenido(Contenido contenido) {
         this.contenido = contenido;
-    }
-
-    public Sesion getSesion() {
-        return sesion;
-    }
-
-    public void setSesion(Sesion sesion) {
-        this.sesion = sesion;
     }
 
     public Date getFechaRegistro() {
