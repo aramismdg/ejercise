@@ -1,4 +1,4 @@
-package com.uala.ejercise;
+package com.uala.ejercise.subscripcion;
 
 import java.math.BigDecimal;
 

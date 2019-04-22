@@ -1,15 +1,15 @@
-package com.uala.ejercise;
+package com.uala.ejercise.subscripcion;
 
 import java.math.BigDecimal;
 
-public class Classic extends Subscripicion {
+public class Platinum extends Subscripicion {
     @Override
     public BigDecimal getCosto() {
-        return BigDecimal.valueOf(100);
+        return BigDecimal.valueOf(300);
     }
 
     @Override
     public Integer getCantidadConexionesPermitidas() {
-        return 1;
+        return 5;
     }
 }

@@ -1,5 +1,8 @@
 package com.uala.ejercise;
 
+import com.uala.ejercise.cobro.CobroBuilder;
+import com.uala.ejercise.contenido.Contenido;
+
 import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.List;

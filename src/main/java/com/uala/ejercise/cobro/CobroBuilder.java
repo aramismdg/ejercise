@@ -1,4 +1,6 @@
-package com.uala.ejercise;
+package com.uala.ejercise.cobro;
+
+import com.uala.ejercise.Usuario;
 
 import java.math.BigDecimal;
 import java.util.Date;

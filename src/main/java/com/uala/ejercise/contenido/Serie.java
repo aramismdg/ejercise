@@ -1,4 +1,4 @@
-package com.uala.ejercise;
+package com.uala.ejercise.contenido;
 
 public class Serie extends Contenido {
 

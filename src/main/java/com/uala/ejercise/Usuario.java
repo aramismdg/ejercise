@@ -1,5 +1,10 @@
 package com.uala.ejercise;
 
+import com.uala.ejercise.contenido.Contenido;
+import com.uala.ejercise.estado.Estado;
+import com.uala.ejercise.metodoPago.MetodoPago;
+import com.uala.ejercise.subscripcion.Subscripicion;
+
 import java.util.Date;
 
 public class Usuario {
